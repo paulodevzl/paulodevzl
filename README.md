@@ -1,0 +1,5 @@
+- 👋 Bem Vindo(a)
+- 👀 16 anos apenas
+- 🌱 Estou estudando desenvolvimento web
+- 💞️ Esperando a Google me contratar
+- ⚡ i speak a little english
