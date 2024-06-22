@@ -2,7 +2,7 @@
   <p>Welcome to my profile!</p>
 </div>
 
-<img src="/src/21116158daaeb1459b4ec0758505e1ad.gif">
+<img src="21116158daaeb1459b4ec0758505e1ad.gif">
 
 #
 
