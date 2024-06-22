@@ -2,6 +2,8 @@
   <p>Welcome to my profile!</p>
 </div>
 
+<img src="/src/21116158daaeb1459b4ec0758505e1ad.gif">
+
 #
 
 <p align="center">Atualmente sou estudante de Desenvolvimento web 
