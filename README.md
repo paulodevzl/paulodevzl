@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=24edaa&color:FFF)](mailto:paulodanielwrk@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=24edaa&color:FFF)](mailto:contatodanipdev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=24edaa&color:FFF)](https://www.instagram.com/danipdev/)
 
 
