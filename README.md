@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Welcome to my profile!</p>
+  <h2>Welcome to my profile!</h2>
 </div>
 
 <img src="21116158daaeb1459b4ec0758505e1ad.gif">
