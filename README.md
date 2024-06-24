@@ -8,8 +8,10 @@
 
 <p align="center">Atualmente sou estudante de Desenvolvimento web 
 <br>  (Senac de Vitória - ES)
-
-#
+  <br>
+  <h3>Veja meu Site Pessoal aqui:</h3>
+  <a href="https://paulodevzl.github.io/">Blog Pessoal</a>
+  #
 
 <h3 align="left">Connect with me!</h3>
 
